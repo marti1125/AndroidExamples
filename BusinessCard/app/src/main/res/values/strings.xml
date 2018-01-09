@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="logo">epik</string>
+    <string name="empresa">Epik Perú</string>
+    <string name="email">hola@epik.com.pe</string>
+    <string name="telefono">+51 986193329</string>
+</resources>
